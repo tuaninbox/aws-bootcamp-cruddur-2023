@@ -9,8 +9,22 @@
 
 ### Create a budget
 
+- I created a very small budget to ensure there's no unexpected expense during the bootcamp
 ![Budget](../_docs/assets/Budget.png)
 
 ### Create an alert
 
+- I wanted to test alert so I set alert value very low and I've got an alert when adding my domain to Route53
 ![Alert](../_docs/assets/Alert.png)
+
+### AWS CLI
+- As I already installed AWSCLI before to WSL so I just get the screenshot
+![Proof of AWS CLI](../_docs/assets/AWSCLI.png)
+- However, the steps I did were:
+  - sudo apt update
+  - sudo apt upgrade
+  - sudo apt install awscli
+
+### Cloud Shell
+- I used cloud shell to show the budget I created in GUI
+![Proof of Cloud Shell](../_docs/assets/CloudShell.png)
